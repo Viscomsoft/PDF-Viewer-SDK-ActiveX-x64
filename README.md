@@ -27,4 +27,5 @@ Install Viscomsoft PDF Viewer SDK ActiveX x64 from http://www.viscomsoft.com/pro
 
 10. Royalty free distribution of the OCX file.
 
-
+# How to Tutorials
+VB.NET - How to create x64 PDF Viewer Application http://www.viscomsoft.com/popular-solution/172/pdfviewer-64
